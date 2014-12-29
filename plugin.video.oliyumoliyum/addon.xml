@@ -7,6 +7,7 @@
     <import addon="script.module.urlresolver" version="2.0.9"/>
     <import addon="plugin.video.dailymotion_com" version="2.1.1"/>
     <import addon="script.module.t0mm0.common" version="2.1.1"/>
+    <import addon="script.common.plugin.cache" /> 
   </requires>
   <extension point="xbmc.python.pluginsource" library="default.py">
         <provides>video</provides>
